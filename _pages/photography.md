@@ -89,6 +89,6 @@ author_profile: true
   <a href="{{ site.baseurl }}/images/000666320007.jpg" data-lightbox="art-gallery" data-title="Art 5">
     <img src="{{ site.baseurl }}/images/000666320007.jpg" alt="Art 5">
   </a>
-  <a href="{{ site.baseurl }}/images/000666320014.jpg" data-lightbox="art-gallery" data-title="Art 5">
+  <!-- <a href="{{ site.baseurl }}/images/000666320014.jpg" data-lightbox="art-gallery" data-title="Art 5">
     <img src="{{ site.baseurl }}/images/000666320014.jpg" alt="Art 5">
-  </a>
+  </a> -->
