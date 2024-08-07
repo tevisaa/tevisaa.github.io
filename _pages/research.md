@@ -21,7 +21,7 @@ I am interested in answering questions about the relationship between stromatoli
 
 <div style="margin-top: 30px; display: flex; align-items: center; margin-bottom: 24px;">
   <img src="{{ site.baseurl }}/images/IMG_3848.png" alt="Research Image" style="width: 47%; height: auto; margin-right: 30px;">
-  <p style="font-size: 0.85em; font-style: italic;">Photomicrograph of hydrogel embedded with environmental microbial sample from the Washington Arboretum wetland, sectioned at 10 &micro;m using cryotome.</p>
+  <p style="font-size: 0.85em; font-style: italic;">Photomicrograph of hydrogel embedded with environmental microbial sample from the Washington Arboretum wetland in Seattle, WA, sectioned at 10 &micro;m using cryotome.</p>
 <div style="clear: both;"></div>
 </div>
 
