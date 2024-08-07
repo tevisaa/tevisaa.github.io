@@ -9,7 +9,7 @@ author_profile: true
 
 <div style="margin-top: 30px; display: flex; align-items: center; margin-bottom: 24px;">
   <img src="{{ site.baseurl }}/images/petheiBeddingPlaneSampleMap.png" alt="Research Image" style="width: 50%; height: auto; margin-right: 30px;">
-  <p style="font-size: 0.85em; font-style: italic;">Drone map of stromatolitic reef system from the 1.9 Ga Pethei Group in Northwest Territories, Canada. Orange lines are measured transects and blue dots are sampling locations. Window views display micro- and macro-scale morphologies. Textural metrics for photomicrographs and variance across bedding plane are reported.</p>
+  <p style="font-size: 0.85em; font-style: italic;">Drone map of stromatolitic reef system from the 1.9 billion-year-old Pethei Group in Northwest Territories, Canada. Orange lines are measured transects and blue dots are sampling locations. Window views display micro- and macro-scale morphologies. Textural metrics for photomicrographs and variance across bedding plane are reported.</p>
 <div style="clear: both;"></div>
 </div>
 
