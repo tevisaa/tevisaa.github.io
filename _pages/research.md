@@ -29,7 +29,7 @@ In the Winkler Lab, I study how wetland environmental microbial communities resp
 
 <hr style="border: none; border-top: 2px solid #888888; margin: 40px 0 20px 0;">
 
-## *Spatial biology, immuno-oncology, and molecular oncology*
+## *Spatial biology, molecular and immuno-oncology*
 
 <div style="margin-top: 30px; display: flex; align-items: center; margin-bottom: 24px;">
   <img src="{{ site.baseurl }}/images/synaptophysinRender.png" alt="Research Image" style="width: 50%; height: auto; margin-right: 30px;">
