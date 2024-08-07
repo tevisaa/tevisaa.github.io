@@ -13,7 +13,7 @@ author_profile: true
 <div style="clear: both;"></div>
 </div>
 
-I am interested in answering questions about the relationship between stromatolite morphology and environmental and/or biological conditions, with the goal of creating process-oriented understandings of these enigmatic features that dominate Earth's biological history. Currently, I am working on improving our ability to use stromatolites as quantitative indicators of paleoenvironment and/or paleobiology. To that end, I am developing novel methods to quantitatively describe stromatolite shape and form, which I then use to make paleoenvironmental and/or paleobiological interpretations. Some of the techniques that I use include: three-dimensional (3D) reconstructions generated using structure from motion (SfM), image processing and quantitative textural analysis, and geospatial and geometric analysis.
+I am interested in answering questions about the relationship between stromatolite morphology and environmental and/or biological conditions, with the goal of creating process-oriented understandings of these enigmatic features that dominate Earth's biological history. Currently, I am working on improving our ability to use stromatolites as quantitative indicators of paleoenvironment and/or paleobiology. To that end, I am developing novel methods to quantitatively describe stromatolite shape and form, which I then use to make interpretations about the process of morphogenesis. Some of the techniques that I use include: three-dimensional (3D) reconstructions generated using structure from motion (SfM), image processing and quantitative textural analysis, and geospatial and geometric analysis.
 
 <hr style="border: none; border-top: 2px solid #888888; margin: 40px 0 20px 0;">
 
