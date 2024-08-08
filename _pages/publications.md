@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## In Preparation
+## In preparation
 
 [3] King, M. E., **Larson Tevis, A. A.**, Mehra, A. K. (202X). A quantitative morphological analysis of Precambrian spur and groove structures from the Pethei Group, Northwest Territories, Canada.
 
@@ -13,7 +13,7 @@ author_profile: true
 
 [1] **Larson Tevis, A. A.**, Mehra, A. K. (202X). Organosedimentary textural analysis: Development and validation of a tool to quantitatively describe micro-scale morphological features.
 
-## Conference Proceedings
+## Conference proceedings
 
 [3] Ramirez, A. B., Costandy, L., Gardner, B., **Larson Tevis, A. A.**, Helmicki, C., Clein, A., Sabath, D. E., Nordberg, J., George, T. Validation of enhanced performance of the AccuCyte®-CyteFinder® platform for circulating tumor cell characterization. Cancer Res 15 June 2022; 82 (12_Supplement): 1952. <a href="https://doi.org/10.1158/1538-7445.AM2022-1952">https://doi.org/10.1158/1538-7445.AM2022-1952</a>.
 
@@ -21,7 +21,7 @@ author_profile: true
 
 [1] Ramirez, A. B., Lo, E., Campton, D., Costandy, L., Gardner, B., Huston, R., **Larson Tevis, A. A.**, Clein, A., Sabath, D. E., Kaldjian, E. P., George, T. Validation of a dual-marker ARv7/SYP assay for CTC characterization. In: Next Generation Dx Summit 2020, Immuno-Oncology Biomarkers and Diagnostics.
 
-## Conference Presentations
+## Conference presentations
 
 [6] Submitted: **Larson Tevis, A. A.**, King, M. E., Barnes, B. D., Methley, P., Mehra, A. K. (2024, December 9-13). Testing the relationship between stromatolite form and environment: A multi-scale study of the Paleoproterozoic Pethei Group, Northwest Territories, Canada. AGU24. Washington, D.C., USA.
 
