@@ -36,7 +36,7 @@ author_profile: true
     <a href="{{ site.baseurl }}/images/000008730020.png" data-lightbox="art-gallery" data-title="Art 1">
       <img src="{{ site.baseurl }}/images/000008730020.png" alt="Art 1">
     </a>
-    <p>Crew wrapping up the end of a field day on the Jennifer Dawn.</p>
+    <p>The team wrapping up the end of a field day on the Jennifer Dawn.</p>
   </div>
   <div class="art-item">
     <a href="{{ site.baseurl }}/images/000008730011.png" data-lightbox="art-gallery" data-title="Art 1">
@@ -144,7 +144,7 @@ author_profile: true
     <a href="{{ site.baseurl }}/images/000_1copy2(1).jpg" data-lightbox="art-gallery" data-title="Art 3">
       <img src="{{ site.baseurl }}/images/000_1copy2(1).jpg" alt="Art 3">
     </a>
-    <p>Multiple exposures of the moon from Snoqualmie Valley, Washington.</p>
+    <p>Multi-exposure photograph of the moon from Snoqualmie Valley, Washington.</p>
   </div>
   <div class="art-item">
     <a href="{{ site.baseurl }}/images/000666280016.jpg" data-lightbox="art-gallery" data-title="Art 4">
