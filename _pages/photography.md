@@ -24,7 +24,7 @@ author_profile: true
     <a href="{{ site.baseurl }}/images/000008730021.png" data-lightbox="art-gallery" data-title="Art 1">
       <img src="{{ site.baseurl }}/images/000008730021.png" alt="Art 1">
     </a>
-    <p>Meghan King and Akshay Mehra processing a 3D reconstruction of spur and groove structure on the commercial fishing vessel "Jennifer Dawn."</p>
+    <p>Meghan King and Akshay Mehra processing a 3D reconstruction of a spur and groove structure on the commercial fishing vessel "Jennifer Dawn" using structure from motion (SfM).</p>
   </div>
   <div class="art-item">
     <a href="{{ site.baseurl }}/images/000008730023.png" data-lightbox="art-gallery" data-title="Art 1">
@@ -66,7 +66,7 @@ author_profile: true
     <a href="{{ site.baseurl }}/images/000008710019.png" data-lightbox="art-gallery" data-title="Art 1">
       <img src="{{ site.baseurl }}/images/000008710019.png" alt="Art 1">
     </a>
-    <p>Parker Jones and Meghan King resting on the South Pethei Peninsula.</p>
+    <p>Parker Jones and Meghan King packing up and resting at the end of a field day on the South Pethei Peninsula.</p>
   </div>
   <div class="art-item">
     <a href="{{ site.baseurl }}/images/000008710017.png" data-lightbox="art-gallery" data-title="Art 1">
@@ -90,7 +90,7 @@ author_profile: true
     <a href="{{ site.baseurl }}/images/000008710006.png" data-lightbox="art-gallery" data-title="Art 1">
       <img src="{{ site.baseurl }}/images/000008710006.png" alt="Art 1">
     </a>
-    <p>Meghan King and Parker Jones observing a cross-sectional exposure of the Wildbreade Formation.</p>
+    <p>Meghan King and Parker Jones walking to a cross-sectional exposure of the Wildbreade Formation.</p>
   </div>
   <div class="art-item">
     <a href="{{ site.baseurl }}/images/000008710011.png" data-lightbox="art-gallery" data-title="Art 1">
@@ -114,13 +114,13 @@ author_profile: true
     <a href="{{ site.baseurl }}/images/000008740032.png" data-lightbox="art-gallery" data-title="Art 1">
       <img src="{{ site.baseurl }}/images/000008740032.png" alt="Art 1">
     </a>
-    <p>View from Jennifer Dawn as a squall passes through Nipin Bay.</p>
+    <p>View from the Jennifer Dawn as a squall passes through Nipin Bay.</p>
   </div>
   <div class="art-item">
     <a href="{{ site.baseurl }}/images/000008740033.png" data-lightbox="art-gallery" data-title="Art 1">
       <img src="{{ site.baseurl }}/images/000008740033.png" alt="Art 1">
     </a>
-    <p>Additional view from Jennifer Dawn as a squall passes through Nipin Bay.</p>
+    <p>Additional view from the Jennifer Dawn as a squall passes through Nipin Bay.</p>
   </div>
   <div class="art-item">
     <a href="{{ site.baseurl }}/images/000008740035.jpg" data-lightbox="art-gallery" data-title="Art 1">
