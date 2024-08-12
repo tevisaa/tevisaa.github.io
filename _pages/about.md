@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-*I am a geoscientist working on problems related to the co-evolution of life and the environment and climate feedbacks.*
+*I am a geoscientist working on problems related to the co-evolution of life and the environment and climate feedbacks in wetland ecosystems.*
 
 I work in Dr. Akshay Mehra's Reconstruction Lab in the <a href='https://www.ess.uw.edu/'>Department of Earth and Space Sciences</a> and Dr. Mari Winkler's <a href='https://winklerlab.com/'>research group</a> in the <a href='https://www.ce.washington.edu/'>Department of Civil and Environmental Engineering</a> as a post-baccalaureate student at the University of Washington.
 
