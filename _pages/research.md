@@ -21,11 +21,11 @@ I am interested in answering questions about the relationship between stromatoli
 
 <div style="margin-top: 30px; display: flex; align-items: center; margin-bottom: 24px;">
   <img src="{{ site.baseurl }}/images/IMG_3848.png" alt="Research Image" style="width: 47%; height: auto; margin-right: 30px;">
-  <p style="font-size: 0.85em; font-style: italic;">Photomicrograph of 10 &micro;m hydrogel sample (sectioned on a cryotome) embedded with environmental microbial sample from the Washington Arboretum wetland in Seattle, WA.</p>
+  <p style="font-size: 0.85em; font-style: italic;">Photomicrograph of 10 &micro;m hydrogel sample sectioned on a cryotome that is embedded with an environmental microbial sample from the Washington Arboretum wetland in Seattle, WA.</p>
 <div style="clear: both;"></div>
 </div>
 
-In the Winkler Lab, I study how wetland environmental microbial communities respond to climate perturbations. Currently, my goal is to constrain the potential for wetland ecosystems to contribute to climate feedbacks via methanogenesis. To that end, I use batch bottles and continuous-feed bioreactors to culture environmental microbial samples embedded within hydrogels, a porous polymer used as a proxy for soil aggregates. To quantify the biogeochemical response of microbial communities to elevated temperatures, I use gas chromatography, high performance liquid chromatography, and spectrophotometric methods to measure greenhouse gas fluxes.
+In the Winkler Lab, I study how wetland environmental microbial communities respond to climate perturbations. Currently, my goal is to constrain the potential for wetland ecosystems to contribute to climate feedbacks via methanogenesis. To that end, I use batch bottles and continuous-feed bioreactors to culture environmental microbial samples embedded within hydrogels, a porous polymer used as a proxy for soil aggregates. To quantify the biogeochemical response of microbial communities to elevated temperatures, I use gas chromatography, high performance liquid chromatography, and spectrophotometry to measure greenhouse gas fluxes.
 
 <hr style="border: none; border-top: 2px solid #888888; margin: 40px 0 20px 0;">
 
