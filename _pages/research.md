@@ -13,7 +13,7 @@ author_profile: true
 <div style="clear: both;"></div>
 </div>
 
-I am interested in answering questions about the relationship between stromatolite morphology and physical, chemical, and biological conditions, with the goal of creating process-oriented understandings of these enigmatic features that dominate Earth's biological history. Currently, I am working to improve our ability to use stromatolites as quantitative indicators of paleoenvironment and paleobiology. To that end, I am developing novel methods to quantitatively describe stromatolite shape and form, which I use to make interpretations about morphogenesis. Several of the techniques that I use include: three-dimensional reconstructions generated using structure from motion, image processing and quantitative textural analysis, and geospatial and geometric analysis.
+I am interested in answering questions about the relationship between stromatolite morphology and physical, chemical, and biological factors, with the goal of creating process-oriented understandings of these enigmatic features that dominate Earth's biological history. Currently, I am working to improve our ability to use stromatolites as quantitative indicators of paleoenvironment and paleobiology. To that end, I am developing novel methods to quantitatively describe stromatolite shape and form, which I use to make interpretations about morphogenesis. Several of the techniques that I use include: three-dimensional reconstructions generated with structure from motion, image processing and quantitative textural analysis, and geospatial and geometric analysis.
 
 <hr style="border: none; border-top: 2px solid #888888; margin: 40px 0 20px 0;">
 
@@ -21,7 +21,7 @@ I am interested in answering questions about the relationship between stromatoli
 
 <div style="margin-top: 30px; display: flex; align-items: center; margin-bottom: 24px;">
   <img src="{{ site.baseurl }}/images/IMG_3848.png" alt="Research Image" style="width: 47%; height: auto; margin-right: 30px;">
-  <p style="font-size: 0.85em; font-style: italic;">Photomicrograph of 10 &micro;m hydrogel sample sectioned on a cryotome that is embedded with an environmental microbial sample from the Washington Arboretum wetland in Seattle, WA.</p>
+  <p style="font-size: 0.85em; font-style: italic;">Photomicrograph of a 10 &micro;m hydrogel sample sectioned on a cryotome and embedded with an environmental microbial sample from the Washington Arboretum wetland in Seattle, WA.</p>
 <div style="clear: both;"></div>
 </div>
 
