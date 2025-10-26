@@ -7,11 +7,11 @@ author_profile: true
 
 ## In preparation
 
-[3] King, M. E., **Larson Tevis, A. A.**, Mehra, A. K. (202X). A quantitative morphological analysis of Precambrian spur and groove structures from the Pethei Group, Northwest Territories, Canada.
+[3] **Larson Tevis, A. A.**, King, M. E., Mehra, A. K. (202X). Testing the relationship between stromatolite form and environment: A multi-scale study of the Paleoproterozoic Pethei Group, Northwest Territories, Canada.
 
-[2] **Larson Tevis, A. A.**, King, M. E., Mehra, A. K. (202X). Testing the relationship between stromatolite form and environment: A multi-scale study of the Paleoproterozoic Pethei Group, Northwest Territories, Canada.
+[2] **Larson Tevis, A. A.**, Mehra, A. K. (202X). Organosedimentary textural analysis: Development and validation of a tool to quantitatively describe micro-scale morphological features.
 
-[1] **Larson Tevis, A. A.**, Mehra, A. K. (202X). Organosedimentary textural analysis: Development and validation of a tool to quantitatively describe micro-scale morphological features.
+[1] King, M. E., **Larson Tevis, A. A.**, Mehra, A. K. (202X). A quantitative morphological analysis of Precambrian spur and groove structures from the Pethei Group, Northwest Territories, Canada.
 
 ## Conference proceedings
 
@@ -23,9 +23,9 @@ author_profile: true
 
 ## Conference presentations
 
-[6] Submitted: **Larson Tevis, A. A.**, King, M. E., Barnes, B. D., Methley, P., Mehra, A. K. (2024, December 9-13). Testing the relationship between stromatolite form and environment: A multi-scale study of the Paleoproterozoic Pethei Group, Northwest Territories, Canada. AGU24. Washington, D.C., USA.
+[6] Wells, J., **Larson Tevis, A. A.**, Mehra, A. K. (2025, October 19-22). Small Microbes, Big Questions: How Were Two-Billion-Year-Old Microbial Buildups Organized? GSA Connects 2025. San Antonio, Texas, USA.
 
-[5] Submitted: Barnes, B. D., Methley, P., Jones, P., Mehra, A. K., King, M. E., **Larson Tevis, A. A.**, Jiang, C. Z., Tosca, N. J., Strauss, J. V. (2024, December 9-13). Geochemical controls on abiotic carbonate sedimentation in the Paleoproterozoic Pethei Group, Northwest Territories, Canada. AGU24. Washington, D.C., USA.
+[5] Barnes, B. D., Methley, P., Jones, P., Mehra, A. K., King, M. E., **Larson Tevis, A. A.**, Jiang, C. Z., Tosca, N. J., Strauss, J. V. (2024, December 9-13). Geochemical controls on abiotic carbonate sedimentation in the Paleoproterozoic Pethei Group, Northwest Territories, Canada. AGU24. Washington, D.C., USA.
 
 [4] Mehra, A. K., **Larson Tevis, A. A.**, Wells, J., Barnes, B., Methley, P., King, M. E. (2024, September 22-25). Quantitative descriptions of the spatial organization of ~1.9 billion-year-old microbial buildups. 2024 GSA Connects. Anaheim, CA, USA.
 
