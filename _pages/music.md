@@ -11,9 +11,11 @@ author_profile: true
   <div class="video-wrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/l9-QJGMB2lM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
+  <br>
   <div class="video-wrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/tQLsFcXryIc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
+  <br>
   <div class="video-wrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/ZwF7uJF5YL0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
