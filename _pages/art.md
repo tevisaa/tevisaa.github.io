@@ -7,7 +7,7 @@ author_profile: true
 
 <style>
   .small-break {
-    margin-top: 1px; /* Adjust the value as needed */
+    margin-top: 0.25px; /* Adjust the value as needed */
   }
 </style>
 
