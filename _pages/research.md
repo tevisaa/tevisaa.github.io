@@ -8,10 +8,10 @@ author_profile: true
 ## *Spatial biology, molecular- and immuno-oncology*
 
 
-<div style="margin-top: 30px; display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 24px;">
+<div style="margin-top: 30px; display: flex; align-items: center; margin-bottom: 24px;">
   <img src="{{ site.baseurl }}/images/orionFigure1.png"
        alt="Research Image"
-       style="width: 50%; height: auto; margin-right: 30px; flex-shrink: 0; min-width: 250px;">
+       style="width: 50%; height: auto; margin-right: 30px; flex-shrink: 0;">
   <p style="font-size: 0.85em; font-style: italic;">
     Highly multiplexed immunofluorescence staining and imaging method, from Sorger et al., 2023. a, 16- to 20-channel multiplexed immunofluorescence (IF) staining and imaging workflow. b, CD31, α-SMA, Hoechst (DNA) IF and hematoxylin and eosin (H&E) staining from a single colorectal cancer tissue section. c, Whole-tissue formalin-fixed paraffin-embedded section with IF staining of CD45, pan-cytokeratin, CD31, and α-SMA and matched H&E with tissue "cores" removed to construct tissue microarrays. d, Zoom-in views of arrowheads in c with 16-channel IF staining. e, Intensities of fluorochromes in each imaging channel.
   </p>
