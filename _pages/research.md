@@ -7,7 +7,6 @@ author_profile: true
 
 ## *Spatial biology, molecular- and immuno-oncology*
 
-
 <div style="margin-top: 30px; display: flex; align-items: flex-start; margin-bottom: 24px;">
   <img src="{{ site.baseurl }}/images/orionFigure1.png"
        alt="Research Image"
@@ -23,10 +22,13 @@ Before transitioning into geoscience, I worked in biomedicine. At RareCyte, Inc.
 
 ## *Stromatolite morphogenesis*
 
-<div style="margin-top: 30px; display: flex; align-items: center; margin-bottom: 24px;">
-  <img src="{{ site.baseurl }}/images/petheiBeddingPlaneSampleMap.png" alt="Research Image" style="width: 50%; height: auto; margin-right: 30px;">
-  <p style="font-size: 0.85em; font-style: italic;">Drone map of a stromatolitic reef system from the 1.9 billion-year-old Pethei Group in Northwest Territories, Canada. The orange lines are measured transects and the blue dots are sampling locations. The window views display "micro-scale" (millimeter- to centimeter-scale) cross-sectional morphologies and "macro-scale" (meter-scale) plan-view morphologies and include textural metrics for micro-scale morphologies.</p>
-<div style="clear: both;"></div>
+<div style="margin-top: 30px; display: flex; align-items: flex-start; margin-bottom: 24px;">
+  <img src="{{ site.baseurl }}/images/petheiBeddingPlaneSampleMap.png"
+       alt="Research Image"
+       style="width: 50%; height: auto; margin-right: 30px; flex-shrink: 0;">
+  <p style="flex: 1; font-size: 0.85em; font-style: italic;">
+    Drone map of a stromatolitic reef system from the 1.9 billion-year-old Pethei Group in Northwest Territories, Canada. The orange lines are measured transects and the blue dots are sampling locations. The window views display "micro-scale" (millimeter- to centimeter-scale) cross-sectional morphologies and "macro-scale" (meter-scale) plan-view morphologies and include textural metrics for micro-scale morphologies
+  </p>
 </div>
 
 In the Reconstructions Lab, I answered questions about the relationship between stromatolite morphology and physical, chemical, and biological factors, with the goal of creating process-oriented understandings of these enigmatic features that dominate Earth’s biological history. As a geobiologist, I worked to improve our ability to use stromatolites as quantitative indicators of paleoenvironment and paleobiology. To that end, I developed novel methods to quantitatively describe stromatolite shape and form, which I used to make interpretations about morphogenesis. Several of the techniques that I used include: three-dimensional reconstructions generated with structure from motion, image processing and quantitative textural analysis developed in Python, and geospatial and geometric analysis.
@@ -35,10 +37,13 @@ In the Reconstructions Lab, I answered questions about the relationship between 
 
 ## *Climate feedbacks in wetland ecosystems*
 
-<div style="margin-top: 30px; display: flex; align-items: center; margin-bottom: 24px;">
-  <img src="{{ site.baseurl }}/images/IMG_3848.png" alt="Research Image" style="width: 47%; height: auto; margin-right: 30px;">
-  <p style="font-size: 0.85em; font-style: italic;">Photomicrograph of a 10 &micro;m hydrogel sample sectioned on a cryotome and embedded with an environmental microbial sample from the Washington Arboretum wetland in Seattle, WA.</p>
-<div style="clear: both;"></div>
+<div style="margin-top: 30px; display: flex; align-items: flex-start; margin-bottom: 24px;">
+  <img src="{{ site.baseurl }}/images/IMG_3848.png"
+       alt="Research Image"
+       style="width: 50%; height: auto; margin-right: 30px; flex-shrink: 0;">
+  <p style="flex: 1; font-size: 0.85em; font-style: italic;">
+    Photomicrograph of a 10 &micro;m hydrogel sample sectioned on a cryotome and embedded with an environmental microbial sample from the Washington Arboretum wetland in Seattle, WA.
+  </p>
 </div>
 
 In the Winkler Lab, I studied how wetland environmental microbial communities respond to climate perturbations. My goal was to constrain the potential for wetland ecosystems to contribute to climate feedbacks via methanogenesis. To answer this question, I used batch bottles and continuous-feed bioreactors to culture environmental microbial samples embedded within hydrogels, a porous polymer used as a proxy for soil aggregates. To quantify the biogeochemical response of microbial communities to elevated temperatures, I used gas chromatography, high performance liquid chromatography, and spectrophotometry to measure greenhouse gas fluxes.
