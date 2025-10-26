@@ -7,7 +7,7 @@ author_profile: true
 
 ## *Spatial biology, molecular- and immuno-oncology*
 
-<div style="margin-top: 30px; display: flex; align-items: flex-start; margin-bottom: 24px;">
+<div style="margin-top: 30px; display: flex; align-items: center; margin-bottom: 24px;">
   <img src="{{ site.baseurl }}/images/orionFigure1.png"
        alt="Research Image"
        style="width: 50%; height: auto; margin-right: 30px; flex-shrink: 0;">
@@ -22,7 +22,7 @@ Before transitioning into geoscience, I worked in biomedicine. At RareCyte, Inc.
 
 ## *Stromatolite morphogenesis*
 
-<div style="margin-top: 30px; display: flex; align-items: flex-start; margin-bottom: 24px;">
+<div style="margin-top: 30px; display: flex; align-items: center; margin-bottom: 24px;">
   <img src="{{ site.baseurl }}/images/petheiBeddingPlaneSampleMap.png"
        alt="Research Image"
        style="width: 50%; height: auto; margin-right: 30px; flex-shrink: 0;">
@@ -37,7 +37,7 @@ In the Reconstructions Lab, I answered questions about the relationship between 
 
 ## *Climate feedbacks in wetland ecosystems*
 
-<div style="margin-top: 30px; display: flex; align-items: flex-start; margin-bottom: 24px;">
+<div style="margin-top: 30px; display: flex; align-items: center; margin-bottom: 24px;">
   <img src="{{ site.baseurl }}/images/IMG_3848.png"
        alt="Research Image"
        style="width: 50%; height: auto; margin-right: 30px; flex-shrink: 0;">
