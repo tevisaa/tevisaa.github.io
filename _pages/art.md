@@ -5,7 +5,13 @@ permalink: /art/
 author_profile: true
 ---
 
-<br>
+<style>
+  .small-break {
+    margin-top: 5px; /* Adjust the value as needed */
+  }
+</style>
+
+<br class="small-break">
 
 Using the image processing techniques that I have developed to analyze the micro-scale textural features of stromatolites, I created a method for analyzing and manipulating image properties to create moving images.
 
