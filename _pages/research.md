@@ -27,7 +27,7 @@ Prior to working as a research associate at RareCyte, Inc., I performed molecula
 <div style="margin-top: 30px; display: flex; align-items: center; margin-bottom: 24px;">
   <img src="{{ site.baseurl }}/images/petheiBeddingPlaneSampleMap.png"
        alt="Research Image"
-       style="width: 50%; height: auto; margin-right: 30px; flex-shrink: 0;">
+       style="width: 55%; height: auto; margin-right: 30px; flex-shrink: 0;">
   <p style="flex: 1; font-size: 0.85em; font-style: italic;">
     Drone map of a stromatolitic reef system from the 1.9 billion-year-old Pethei Group in Northwest Territories, Canada. The orange lines are measured transects and the blue dots are sampling locations. The window views display "micro-scale" (millimeter- to centimeter-scale) cross-sectional morphologies and "macro-scale" (meter-scale) plan-view morphologies and include textural metrics for micro-scale morphologies.
   </p>
@@ -42,7 +42,7 @@ In the Reconstructions Lab, I answered questions about the relationship between 
 <div style="margin-top: 30px; display: flex; align-items: center; margin-bottom: 24px;">
   <img src="{{ site.baseurl }}/images/IMG_3848.png"
        alt="Research Image"
-       style="width: 50%; height: auto; margin-right: 30px; flex-shrink: 0;">
+       style="width: 55%; height: auto; margin-right: 30px; flex-shrink: 0;">
   <p style="flex: 1; font-size: 0.85em; font-style: italic;">
     Photomicrograph of a 10 &micro;m hydrogel sample sectioned on a cryotome and embedded with an environmental microbial sample from the Washington Arboretum wetland in Seattle, WA.
   </p>
