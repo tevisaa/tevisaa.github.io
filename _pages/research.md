@@ -42,7 +42,7 @@ In the Reconstructions Lab, I answered questions about the relationship between 
 <div style="margin-top: 30px; display: flex; align-items: center; margin-bottom: 24px;">
   <img src="{{ site.baseurl }}/images/IMG_3848.png"
        alt="Research Image"
-       style="width: 55%; height: auto; margin-right: 30px; flex-shrink: 0;">
+       style="width: 52%; height: auto; margin-right: 30px; flex-shrink: 0;">
   <p style="flex: 1; font-size: 0.85em; font-style: italic;">
     Photomicrograph of a 10 &micro;m hydrogel sample sectioned on a cryotome and embedded with an environmental microbial sample from the Washington Arboretum wetland in Seattle, WA.
   </p>
