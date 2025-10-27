@@ -17,7 +17,7 @@ Using the image processing techniques that I developed to analyze the micro-scal
 
 Here is an overview of the process: First, I apply a convolution to the original image. After applying the convolution, I measure vertical transects for each column of pixels spanning the laminae and take the mean of pixel intensities from each column. Then, I shift the corresponding row of pixels left or right by the difference of the mean value of the transect relative to the average pixel intensity for the whole image. The greater the difference in intensity from the threshold, the faster the row shifts. The direction of the shift is determined by whether the value is above or below the threshold. Lastly, I manipulate the color for each pixel according to its difference from a global threshold. I perform this process iteratively, with a convolution occurring at each frame. The examples below each have a different convolution denominator, pixel threshold values, shift speed, and/or pixel color manipulation.
 
-The image used in these examples is a photomicrograph of a polished slab of stromatolite laminations from Suarez-Gonzalez et al., 2014.
+The image used in these examples is a photomicrograph of a polished slab of stromatolite laminations taken from Suarez-Gonzalez et al., 2014.
 
 <div class="art-grid">
   <div class="art-item">
