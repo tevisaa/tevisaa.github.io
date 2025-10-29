@@ -13,7 +13,7 @@ author_profile: true
 </style>
 <div class="small-break"></div>
 
-Using the image processing techniques I developed to analyze the micro-scale textural features of stromatolites, I created a method for manipulating image properties to create moving images.
+Using the image processing techniques I developed to analyze the micro-scale textural features of stromatolites, I designed a method to create moving images by manipulating image properties.
 
 Here is an overview of the process: First, I apply a convolution to the original image using a kernel with a specified denominator. After applying the convolution, I calculate the mean pixel intensity value for a vertical transect taken from the middle column of the image. I expand and normalize this transect to match the dimensions of the whole image. Then, I multiply the convolved image by the expanded transect. For each row of the resulting image, I calculate the mean pixel intensity and compare it to the mean intensity of the original transect. Based on this difference, I shift the corresponding row of pixels left or right. The magnitude of the shift is proportional to the difference, and the direction is determined by whether the row's intensity is above or below the mean. Lastly, I adjust the color of each pixel exceeding a predefined threshold. I repeat this process iteratively, applying a convolution with a decreasing kernel denominator at each frame. The examples below each have a different starting kernel denominator, kernel denominator step size, pixel threshold value, shift speed, and/or pixel color manipulation.
 
