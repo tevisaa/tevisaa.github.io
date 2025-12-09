@@ -7,11 +7,13 @@ author_profile: true
 
 ## In preparation
 
-[3] **Larson Tevis, A. A.**, King, M. E., Mehra, A. K. (202X). Testing the relationship between stromatolite form and environment: A multi-scale study of the Paleoproterozoic Pethei Group, Northwest Territories, Canada.
+[4] Abrahamson, B., **Larson Tevis, A. A.**, et al. (202X). Wetland sediment analogs reveal link between functional convergence, community assembly, and spatial organization in lactate-dependent methanogenesis.
 
-[2] **Larson Tevis, A. A.**, Mehra, A. K. (202X). Organosedimentary textural analysis: Development and validation of a tool to quantitatively describe micro-scale morphological features.
+[3] King, M. E., **Larson Tevis, A. A.**, Mehra, A. K. (202X). A quantitative morphological analysis of Precambrian spur and groove structures from the Pethei Group, Northwest Territories, Canada.
 
-[1] King, M. E., **Larson Tevis, A. A.**, Mehra, A. K. (202X). A quantitative morphological analysis of Precambrian spur and groove structures from the Pethei Group, Northwest Territories, Canada.
+[2] **Larson Tevis, A. A.**, King, M. E., Mehra, A. K. (202X). Testing the relationship between stromatolite form and environment: A multi-scale study of the Paleoproterozoic Pethei Group, Northwest Territories, Canada.
+
+[1] **Larson Tevis, A. A.**, Mehra, A. K. (202X). Organosedimentary textural analysis: Development and validation of a tool to quantitatively describe micro-scale morphological features.
 
 ## Conference proceedings
 
