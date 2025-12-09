@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-*I am a scientist eager to work on complex chronic illnesses and their comorbidities.*
+*I am a scientist eager to work on problems related to complex chronic diseases and their comorbidities.*
 
 Following my diagnosis with hypermobile Ehlers-Danlos syndrome (hEDS), I am dedicated to a career that integrates patient-informed research with disability advocacy. I have seen firsthand the urgent need for systems that center lived experience and collaborative approaches to care and research. This commitment guides me toward patient-led research as a prospective graduate student, with the goal of improving patient outcomes and expanding resources for the disabled community. My research interests focus on uncovering the molecular, structural, and immunological processes that drive the pathogenesis of polygenic multisystem diseases.
 
