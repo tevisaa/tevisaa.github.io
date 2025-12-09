@@ -23,6 +23,10 @@ author_profile: true
   <div class="video-wrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/ZwF7uJF5YL0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
+    <br>
+  <div class="video-wrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/1lDiBJlXjMk?si=EFfmxN272sxyD7Pk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
   <!--
   <div class="video-wrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/zZt5J1FX_Kw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
