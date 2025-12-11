@@ -7,7 +7,7 @@ author_profile: true
 
 ## In preparation
 
-[4] Abrahamson, B., **Larson Tevis, A. A.**, et al. (202X). Wetland sediment analogs reveal link between functional convergence, community assembly, and spatial organization in lactate-dependent methanogenesis.
+[4] Abrahamson B., Candry P., Wang P. H., **Larson Tevis A. A.**, Godfrey B., Flinkstron Z., Hunt K. A., Winkler M-K. H. (202X). Synthetic wetland sediment analogs provide insight into the spatial organization and function of syntrophic methanogenesis.
 
 [3] King, M. E., **Larson Tevis, A. A.**, Mehra, A. K. (202X). A quantitative morphological analysis of Precambrian spur and groove structures from the Pethei Group, Northwest Territories, Canada.
 
