@@ -16,7 +16,7 @@ author_profile: true
   </p>
 </div>
 
-As a research associate at RareCyte, Inc. I developed and validated highly multiplexed immunofluorescence staining and imaging methods and assays for circulating tumor and rare cell biomarkers. I built workflows to visualize, quantify, and spatially resolve protein expression within tissue microenvironments and circulating cells using multiplexed immunofluorescence, antibody-fluorophore conjugation, flow cytometry, immunohistochemistry, and spectrophotometry.
+As a research associate at RareCyte, Inc., I built workflows to visualize, quantify, and spatially resolve protein expression within tissue microenvironments and circulating cells using multiplexed immunofluorescence, antibody-fluorophore conjugation, flow cytometry, immunohistochemistry, and spectrophotometry.
 
 Notably, I co-led the development of an assay used at Harborview Medical Center to isolate circulating tumor cells from peripheral blood and quantify synaptophysin expression, a protein found in the synaptic vesicles of neurons, to detect neuroendocrine differentiation in prostate cancer. Additionally, I optimized antibody-fluorophore conjugates for Orion, a highly multiplexed spatial transcriptomics platform, which was recently featured in the Nature Reviews Methods Primer on spatial multiplexing and omics. The staining and imaging tools I engineered for Orion have enabled clinicians and researchers to quantify immune infiltration and tumor features with precise, spatially resolved single-cell data, informing disease staging and stratification. My work in spatial biology and liquid biopsy also supported collaborations for drug development across cancer types and autoimmune diseases, including rheumatoid arthritis.
 
