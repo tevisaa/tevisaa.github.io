@@ -12,7 +12,7 @@ author_profile: true
        alt="Research Image"
        style="width: 55%; height: auto; margin-right: 30px; flex-shrink: 0;">
   <p style="flex: 1; font-size: 0.85em; font-style: italic;">
-    Highly multiplexed one-shot immunofluorescence (IF) and hematoxylin and eosin (H&E) staining and imaging method developed by RareCyte, Inc. and the Laboratory of Systems Pharmacology at Harvard Medical School. From Lin et al., 2023, published in Nature Cancer. (a) 16- to 20-channel multiplexed IF and H&E staining and imaging workflow. (b) CD31, α-SMA, Hoechst (DNA) IF and H&E staining from a single colorectal cancer tissue section. (c) Whole-tissue section with IF staining of CD45, pan-cytokeratin, CD31, and α-SMA and matched H&E with tissue "cores" removed to construct tissue microarrays. (d) Zoom-in views of arrowheads in (c) with 16-channel IF and H&E staining. (e) Intensities of fluorochromes in each imaging channel.
+    Highly multiplexed one-shot immunofluorescence (IF) and hematoxylin and eosin (H&E) staining and imaging method. From Lin et al., 2023. (a) 16- to 20-channel multiplexed IF and H&E staining and imaging workflow. (b) CD31, α-SMA, Hoechst (DNA) IF and H&E staining from a single colorectal cancer tissue section. (c) Whole-tissue section with IF staining of CD45, pan-cytokeratin, CD31, and α-SMA and matched H&E with tissue "cores" removed to construct tissue microarrays. (d) Zoom-in views of arrowheads in (c) with 16-channel IF and H&E staining. (e) Intensities of fluorochromes in each imaging channel.
   </p>
 </div>
 
@@ -31,11 +31,11 @@ Prior to working at RareCyte, Inc., I characterized tumors using molecular techn
        alt="Research Image"
        style="width: 55%; height: auto; margin-right: 30px; flex-shrink: 0;">
   <p style="flex: 1; font-size: 0.85em; font-style: italic;">
-    Drone map of a stromatolitic reef system from the 1.9 billion-year-old Pethei Group in Northwest Territories, Canada. The orange lines are measured transects and the blue dots are sampling locations. The window views display "micro-scale" (millimeter- to centimeter-scale) cross-sectional morphologies and "macro-scale" (meter-scale) plan-view morphologies and include textural metrics for micro-scale morphologies.
+    Drone map of a stromatolitic reef system from the 1.9 billion-year-old Pethei Group in Northwest Territories, Canada. The orange lines are measured transects and the blue dots are sampling locations. The window views display "micro-scale" (millimeter- to centimeter-scale) cross-sectional morphologies and their respective textural metrics and "macro-scale" (meter-scale) plan-view morphologies.
   </p>
 </div>
 
-In the Reconstructions Lab, I investigate how the morphology of stromatolites—sedimentary constructions formed, in part, by microbial activity—reflects physical, chemical, and biological factors to build process-oriented interpretations of Earth’s early biosphere. I develop computational descriptors of shape and form and use them to infer morphogenetic processes, leveraging three-dimensional reconstructions from structure from motion photogrammetry, texture feature extraction, and geospatial and geometric modeling. Through this project, I learned to frame broad questions in tractable ways, work creatively at the interface of data and mechanism, and communicate across disciplines. I aim to apply these non-traditional skills in future studies of complex chronic illnesses.
+In the Reconstructions Lab, I investigate how the morphology of stromatolites—sedimentary constructions formed, in part, by microbial activity—reflects physical, chemical, and biological factors to build process-oriented interpretations of Earth’s early biosphere. I develop computational descriptors of shape and form and use them to infer morphogenetic processes, leveraging three-dimensional reconstructions from structure from motion photogrammetry, texture feature extraction, and geospatial and geometric modeling.
 
 <hr style="border: none; border-top: 2px solid #888888; margin: 40px 0 20px 0;">
 
@@ -50,4 +50,4 @@ In the Reconstructions Lab, I investigate how the morphology of stromatolites—
   </p>
 </div>
 
-Previously, in the Winkler Lab, I studied how methanogenic microbial communities respond to temperature and hydrologic perturbations to predict wetland climate feedbacks. Using batch bottles and continuous-feed bioreactors with hydrogel-embedded microbial samples, I quantified biogeochemical responses and greenhouse gas fluxes to simulated climate scenarios with gas chromatography, high-performance liquid chromatography, and spectrophotometry. I also constrained microbial community composition and spatial organization using 16S rRNA gene sequencing, cryosectioning, and fluorescence in situ hybridization. Together, these experiences taught me to design experiments around difficult-to-observe processes, link microbial activity to ecosystem-scale outcomes, and interpret complex, noisy data.
+Previously, in the Winkler Lab, I studied how methanogenic microbial communities respond to temperature and hydrologic perturbations to predict wetland climate feedbacks. Using batch bottles and continuous-feed bioreactors with hydrogel-embedded microbial samples, I quantified biogeochemical responses and greenhouse gas fluxes to simulated climate scenarios with gas chromatography, high-performance liquid chromatography, and spectrophotometry. I also constrained microbial community composition and spatial organization using 16S rRNA gene sequencing, cryosectioning, and fluorescence in situ hybridization.
