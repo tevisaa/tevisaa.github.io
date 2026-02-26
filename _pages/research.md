@@ -35,7 +35,7 @@ Prior to working at RareCyte, Inc., I characterized tumors using molecular techn
   </p>
 </div>
 
-In the Reconstructions Lab, I investigate how the morphology of stromatolites—sedimentary constructions formed, in part, by microbial activity—reflects physical, chemical, and biological factors to build process-oriented interpretations of Earth’s early biosphere. I develop computational descriptors of shape and form and use them to infer morphogenetic processes, leveraging three-dimensional reconstructions from structure from motion photogrammetry, texture feature extraction, and geospatial and geometric modeling. My goal is to apply the non-traditional approach I have developed through geoscience to study complex chronic illnesses.
+In the Reconstructions Lab, I investigate how the morphology of stromatolites—sedimentary constructions formed, in part, by microbial activity—reflects physical, chemical, and biological factors to build process-oriented interpretations of Earth’s early biosphere. I develop computational descriptors of shape and form and use them to infer morphogenetic processes, leveraging three-dimensional reconstructions from structure from motion photogrammetry, texture feature extraction, and geospatial and geometric modeling. My goal is to apply the non-traditional approach I have developed through geoscience to future studies of complex chronic illnesses.
 
 <hr style="border: none; border-top: 2px solid #888888; margin: 40px 0 20px 0;">
 
