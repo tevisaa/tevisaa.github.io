@@ -9,7 +9,7 @@ redirect_from:
 
 *I am a scientist eager to work on problems related to complex chronic illnesses and their comorbidities.*
 
-Following diagnoses of hypermobile Ehlers-Danlos syndrome (hEDS) and related conditions, I am dedicated to a career that integrates patient-informed research with disability advocacy. I have seen firsthand the need for systems that center lived experience and enable collaboration across patients, clinicians, and researchers. As a prospective graduate student, I aim to advance research that improves outcomes and expands resources for patients.
+Following diagnoses of hypermobile Ehlers-Danlos syndrome (hEDS) and related conditions, I am dedicated to a career that integrates patient-informed research with disability advocacy. I have seen firsthand the need for systems that center lived experience and enable collaboration across patients, clinicians, and researchers. As a prospective graduate student, I aim to advance research that improves outcomes and expands resources for the disabled community.
 
 My long-term objective is to define the molecular, structural, and immunological drivers of connective tissue and polygenic, multisystem diseases. I am particularly interested in how crosstalk among inflammatory pathways, neuroimmune signaling, and connective tissue produces chronic, fluctuating symptoms—such as pain, fatigue, and dysautonomia—that remain poorly understood and difficult to treat.
 
