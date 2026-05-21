@@ -35,7 +35,9 @@ Prior to working at RareCyte, Inc., I characterized tumors to support diagnosis,
   </p>
 </div>
 
-In the Reconstructions Lab, I investigate how the morphology of stromatolites—sedimentary constructions formed, in part, by microbial activity—reflects physical, chemical, and biological factors to build process-oriented interpretations of Earth’s early biosphere. I develop computational descriptors of shape and form and use them to infer morphogenetic processes, leveraging three-dimensional reconstructions from structure from motion photogrammetry, texture feature extraction, and geospatial and geometric modeling. My goal is to apply the non-traditional approach I have developed through my studies in geoscience to future work on complex chronic illnesses.
+In the Reconstructions Lab, I investigate how the morphology of stromatolites—sedimentary constructions formed, in part, by microbial activity—reflects physical, chemical, and biological factors to build process-oriented interpretations of Earth’s early biosphere. I develop computational descriptors of shape and form and use them to infer morphogenetic processes, leveraging three-dimensional reconstructions from structure from motion photogrammetry, texture feature extraction, and geospatial and geometric modeling. My goal is to apply the non-traditional approach I have developed through my studies in geoscience to future work on disability advocacy.
+
+<!-- complex chronic illnesses. -->
 
 <hr style="border: none; border-top: 2px solid #888888; margin: 40px 0 20px 0;">
 
@@ -50,4 +52,6 @@ In the Reconstructions Lab, I investigate how the morphology of stromatolites—
   </p>
 </div>
 
-Previously, in the Winkler Lab, I studied how methanogenic microbial communities respond to temperature and hydrologic perturbations to predict wetland climate feedbacks. Using batch bottles and continuous-feed bioreactors with hydrogel-embedded microbial samples, I quantified biogeochemical responses and greenhouse gas fluxes in simulated climate scenarios with gas chromatography, high-performance liquid chromatography, and spectrophotometry. I also constrained microbial community composition and spatial organization using 16S rRNA gene sequencing, cryosectioning, and fluorescence in situ hybridization. Through this work, I learned how to test hard-to-observe biological processes and make sense of complex datasets, which I plan to carry into biomedicine.
+Previously, in the Winkler Lab, I studied how methanogenic microbial communities respond to temperature and hydrologic perturbations to predict wetland climate feedbacks. Using batch bottles and continuous-feed bioreactors with hydrogel-embedded microbial samples, I quantified biogeochemical responses and greenhouse gas fluxes in simulated climate scenarios with gas chromatography, high-performance liquid chromatography, and spectrophotometry. I also constrained microbial community composition and spatial organization using 16S rRNA gene sequencing, cryosectioning, and fluorescence in situ hybridization. Through this work, I learned how to test hard-to-observe biological processes and make sense of complex datasets, which I plan to carry into social work and community-based research.
+
+<!-- biomedicine. -->
