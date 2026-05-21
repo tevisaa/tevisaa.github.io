@@ -9,7 +9,7 @@ redirect_from:
 
 *I am an aspiring social worker committed to serving the disabled community.*
 
-I am pursuing a career that brings together direct service, community-engaged research, and disability advocacy. Through my own experiences, I have seen the need for systems that center lived expertise and foster meaningful collaboration among community members, service providers, and researchers. As I transition from science into disability-focused community work, I hope to contribute to more accessible, responsive, and equitable systems of support.
+I am pursuing a career that brings together direct service, community-engaged research, and disability advocacy. Through my own experiences, I have seen the need for systems that center lived knowledge and foster meaningful collaboration among community members, service providers, and researchers. As I transition from science into disability-focused community work, I hope to contribute to more accessible, responsive, and equitable systems of support.
 
 My long-term goal is to pursue a Master of Social Work and doctoral training in a related field to advance disability-centered practice, research, and systems change. I am especially interested in work that expands resources for disabled people and their support networks, including strengthening housing stability, improving access to medical care, and increasing the availability of community-based services.
 
