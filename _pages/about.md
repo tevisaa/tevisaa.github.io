@@ -11,7 +11,7 @@ redirect_from:
 
 I have seen firsthand the need for systems that center direct experience and enable collaboration across patients, clinicians, and researchers. As a prospective graduate student, I aim to advance research that improves outcomes and expands resources for patients using patient- and community-informed perspectives.
 
-My long-term objective is to identify and validate the drivers of connective tissue diseases. I am particularly interested in how crosstalk among musculoskeletal tissues, inflammatory pathways, and neuroimmune signaling produces symptoms that are poorly understood and challenging to treat.
+My long-term objective is to identify and validate the drivers of connective tissue diseases. I am particularly interested in how crosstalk among musculoskeletal tissues, inflammatory pathways, and neuroimmune signaling produces symptoms that remain poorly understood and challenging to treat.
 
 Currently, I am working on questions related to the co-evolution of life and the environment using quantitative descriptions of microbialite shape and form in Dr. Akshay Mehra’s Reconstructions Lab in the <a href='https://www.ess.uw.edu/'>Department of Earth and Space Sciences</a> at the University of Washington. Previously, I concentrated on climate feedbacks in wetland ecosystems by constraining microbially mediated greenhouse gas fluxes in Dr. Mari Winkler’s <a href='https://winklerlab.com/'>research group</a> in the <a href='https://www.ce.washington.edu/'>Department of Civil and Environmental Engineering</a>.
 
