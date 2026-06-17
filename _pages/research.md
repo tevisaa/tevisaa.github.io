@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## *Spatial biology, molecular- and immuno-oncology*
+## *Spatial biology and immuno-oncology*
 
 <div style="margin-top: 30px; display: flex; align-items: center; margin-bottom: 24px;">
   <img src="{{ site.baseurl }}/images/orionFigure1.png"
