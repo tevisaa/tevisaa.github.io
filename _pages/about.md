@@ -9,11 +9,13 @@ redirect_from:
 
 *I am a prospective graduate student who is eager to work on problems related to complex diseases and their comorbidities.*
 
-My long-term objective is to identify and validate the drivers of complex diseases, with interests ranging from connective tissue disorders to gastrointestinal diseases. I am particularly interested in how crosstalk among different tissue types, body systems, and signaling pathways contribute to symptoms that remain poorly understood and challenging to treat, such as chronic pain and fatigue. As a part of my work, I aim to improve outcomes and expand resources for patients using patient- and community-informed perspectives.
+My long-term objective is to identify and validate the drivers of complex diseases. I am particularly interested in how crosstalk among different tissue types, body systems, and signaling pathways contribute to symptoms that remain poorly understood and challenging to treat, such as chronic pain and fatigue. Additionally, I aim to improve outcomes and expand resources for patients using patient- and community-informed perspectives.
 
 <!-- My long-term objective is to identify and validate the drivers of gastrointestinal diseases. I am particularly interested in how crosstalk among gastrointestinal tissues, inflammatory pathways, and neuroimmune signaling produces conditions that remain poorly understood and challenging to treat, such as inflammatory bowel syndrome. As a prospective graduate student, I aim to improve outcomes and expand resources for patients using patient- and community-informed perspectives. -->
 
 <!--
+
+with interests ranging from connective tissue disorders to gastrointestinal diseases.
 
 , inflammatory pathways, and neuroimmune signaling produces conditions that remain poorly understood and challenging to treat, such as chronic pain and fatigue.
 
