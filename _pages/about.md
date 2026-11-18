@@ -7,9 +7,31 @@ redirect_from:
   - /about.html
 ---
 
-*I am a scientist eager to work on problems related to complex diseases and their comorbidities.*
+*I am a prospective graduate student who is eager to work on problems related to complex diseases and their comorbidities.*
 
-My long-term objective is to identify and validate the drivers of gastrointestinal diseases. I am particularly interested in how crosstalk among gastrointestinal tissues, inflammatory pathways, and neuroimmune signaling produces conditions that remain poorly understood and challenging to treat, such as inflammatory bowel syndrome. As a prospective graduate student, I aim to improve outcomes and expand resources for patients using patient- and community-informed perspectives.
+My long-term objective is to identify and validate the drivers of complex diseases, with interests ranging from connective tissue disorders to gastrointestinal diseases. I am particularly interested in how crosstalk among different tissue types, body systems, and signaling pathways contribute to symptoms that remain poorly understood and challenging to treat, such as chronic pain and fatigue. As a part of my work, I aim to improve outcomes and expand resources for patients using patient- and community-informed perspectives.
+
+<!-- My long-term objective is to identify and validate the drivers of gastrointestinal diseases. I am particularly interested in how crosstalk among gastrointestinal tissues, inflammatory pathways, and neuroimmune signaling produces conditions that remain poorly understood and challenging to treat, such as inflammatory bowel syndrome. As a prospective graduate student, I aim to improve outcomes and expand resources for patients using patient- and community-informed perspectives. -->
+
+<!--
+
+, inflammatory pathways, and neuroimmune signaling produces conditions that remain poorly understood and challenging to treat, such as chronic pain and fatigue.
+
+I am particularly interested in how crosstalk among gastrointestinal tissues, inflammatory pathways, and neuroimmune signaling produces conditions that remain poorly understood and challenging to treat, such as chronic pain and fatigue. I aim to improve outcomes and expand resources for patients using patient- and community-informed perspectives.
+
+My long-term objective is to identify and validate the drivers of understudied diseases, with interests ranging from 
+
+My long-term objective is to identify and validate the drivers of complex diseases, with interests ranging from connective tissue disorders to gastrointestinal diseases.
+
+I am particularly interested in how crosstalk among gastrointestinal tissues, inflammatory pathways, and neuroimmune signaling produces conditions that remain poorly understood and challenging to treat, such as chronic pain and fatigue. I aim to improve outcomes and expand resources for patients using patient- and community-informed perspectives.
+
+chronic pain
+
+diseases that
+
+community-informed
+
+ -->
 
 <!-- I have seen firsthand the need for systems that center direct experience and enable collaboration across patients, clinicians, and researchers. As a prospective graduate student, I aim to advance research that improves outcomes and expands resources for patients using patient- and community-informed perspectives. -->
 
